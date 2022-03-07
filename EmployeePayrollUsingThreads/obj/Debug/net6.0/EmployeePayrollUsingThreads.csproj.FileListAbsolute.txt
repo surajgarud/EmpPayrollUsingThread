@@ -1,0 +1,15 @@
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\net6.0\EmployeePayrollUsingThreads.exe
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\net6.0\EmployeePayrollUsingThreads.deps.json
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\net6.0\EmployeePayrollUsingThreads.runtimeconfig.json
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\net6.0\EmployeePayrollUsingThreads.dll
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\net6.0\EmployeePayrollUsingThreads.pdb
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\EmployeePayrollUsingThreads.csproj.AssemblyReference.cache
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\EmployeePayrollUsingThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\EmployeePayrollUsingThreads.AssemblyInfoInputs.cache
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\EmployeePayrollUsingThreads.AssemblyInfo.cs
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\EmployeePayrollUsingThreads.csproj.CoreCompileInputs.cache
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\EmployeePayrollUsingThreads.dll
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\EmployeePayrollUsingThreads.pdb
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\EmployeePayrollUsingThreads.genruntimeconfig.cache
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\obj\Debug\net6.0\ref\EmployeePayrollUsingThreads.dll
+C:\Users\suraj\source\repos\EmployeePayrollUsingThreads\EmployeePayrollUsingThreads\bin\Debug\net6.0\ref\EmployeePayrollUsingThreads.dll
